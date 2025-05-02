@@ -203,5 +203,7 @@ As captain on this journey, I'm mastering the craft of intelligent systems that 
   [![](https://visitcount.itsvg.in/api?id=UmayarajKumar17&icon=0&color=0)](https://visitcount.itsvg.in)
   
   ## 👀 Profile Views
-  <img src="https://komarev.com/ghpvc/?username=UmayarajKumar17&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=UmayarajKumar17&label=Total%20Views&color=0072ff&style=for-the-badge" alt="Total Profile Views" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=UmayarajKumar17&label=Views%20Today&color=00c6ff&style=for-the-badge&base=100" alt="Daily Profile Views" />
 </div>
