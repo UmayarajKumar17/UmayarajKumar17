@@ -1,5 +1,5 @@
 # ⚓ UmayarajKumar17 | AI Pirate Captain ⚓
-
+ 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ahoy,%20I'm%20Umayaraj%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Navigating%20the%20High%20Seas%20of%20Generative%20AI&descAlignY=50)
 
 <div align="center">
