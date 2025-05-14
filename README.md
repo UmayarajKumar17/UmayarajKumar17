@@ -190,7 +190,7 @@ As captain on this journey, I'm mastering the craft of intelligent systems that 
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=UmayarajKumar17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<div align="center">
+<div align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlpeWRwZmRrN2xsNGk2NzVsNW9nYWVnZGpzMXVqMWpmcGp2MzF1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="300px" alt="Goodbye Meme">
   <p><i>"Thanks for visiting my profile! May your code always compile on the first try!"</i></p>
 </div>
